@@ -1,0 +1,25 @@
+_repo: Evolution-of-Expression-Volume-1_4942
+creator:
+  author:
+    agent_name: Emerson, Charles Wesley
+    alias: Emerson, C. Wesley (Charles Wesley)
+    birthdate: 1837
+    deathdate: 1908
+    gutenberg_agent_id: '1600'
+    url: http://www.gutenberg.org/2009/agents/1600
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Wesley_Emerson
+description: ''
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4942'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Elocution'
+- !lcsh 'Recitations'
+title: Evolution of Expression — Volume 1
+url: http://www.gutenberg.org/ebooks/4942
