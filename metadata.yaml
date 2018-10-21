@@ -1,5 +1,5 @@
 _repo: Evolution-of-Expression-Volume-1_4942
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -27,5 +27,6 @@ subjects:
 - !lcc 'PN'
 - !lcsh 'Elocution'
 - !lcsh 'Recitations'
+- GITenberg
 title: Evolution of Expression — Volume 1
 url: http://www.gutenberg.org/ebooks/4942
